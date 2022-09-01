@@ -2,7 +2,7 @@
   <a href="http://lovera.maxam.now.sh/">
     <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
   </a>
-  <h3 align="center">📌✨productive-box</h3>
+  <h3 align="center">📌✨productive-box</h3>Cancel changes
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Create a new public GitHub Gist (https://gist.github.com/)
 1. Create a token with the `gist` and `repo` scope and copy it. (https://github.com/settings/tokens/new)
    > enable `repo` scope seems **DANGEROUS**<br/>
-   > but this GitHub Action only accesses your commit timestamp in repository you contributed.
+   > but this GitHub Action only accesses your commit timestamp in repository you contributed!
 
 ### Project setup
 
